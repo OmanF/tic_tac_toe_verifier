@@ -1,0 +1,10 @@
+STORAGE: NONE
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Expecto (10.2.3)
+      FSharp.Core (>= 7.0.200) - restriction: >= net6.0
+      Mono.Cecil (>= 0.11.4 < 1.0) - restriction: >= net6.0
+    FsCheck (3.3.2)
+      FSharp.Core (>= 5.0.2) - restriction: >= netstandard2.0
+    FSharp.Core (10.0.103) - restriction: >= netstandard2.0
+    Mono.Cecil (0.11.6) - restriction: >= net6.0
